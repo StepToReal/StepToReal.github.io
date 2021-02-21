@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "StepToReal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자인 척 하지말고 진짜 개발자가 되기"
+  bio              : "개발자인 척 하지말고 \n 진짜 개발자가 되기"
   location         : "South Korea"
   email            :
   links:
